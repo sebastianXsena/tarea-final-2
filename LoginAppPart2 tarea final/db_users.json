@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": "1043643608",
+            "name": "Sebastian Sena",
+            "username": "Ssena",
+            "password": "12345",
+            "email": "sebastiansena347@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "84956798456",
+            "name": "Miguel Caro",
+            "username": "Mcaro",
+            "password": "125777",
+            "email": "miguel@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "9898748972",
+            "name": "Diego yepez",
+            "username": "Diypez",
+            "password": "gfgf123123",
+            "email": "Diego@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "1242534534534",
+            "name": "angie milena",
+            "username": "Anmilena",
+            "password": "123",
+            "email": "milena@gmail.com",
+            "role": "Administrador"
+        }
+    ]
+}
